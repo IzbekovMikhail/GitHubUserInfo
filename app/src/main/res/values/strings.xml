@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GitHubUserInfo</string>
+
+    <string name="loginEdit">Введите логин</string>
+    <string name="button">Информация</string>
+</resources>
